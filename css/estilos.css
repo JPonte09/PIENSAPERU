@@ -78,3 +78,17 @@ body{
     border-radius: 8px;
     color: #fff;
 }
+/* Second Section */
+.last-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+.last-section img{
+    width: 48%;
+    border-radius: 9px;
+}
+.last-section .contenedor-textos-main{
+    width: 40%;
+}
