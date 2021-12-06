@@ -1,5 +1,5 @@
 .portada {
-  background: url("/img/portada.png") no-repeat fixed center;
+  background: url("../img/portada.png") no-repeat fixed center;
   background-size: cover;
   height: 100%;
   width: 100%;
